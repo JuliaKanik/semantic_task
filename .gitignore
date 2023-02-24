@@ -1,0 +1,7 @@
+# Ignore virtualenvs
+venv/
+.virtualenv/
+env/
+
+# Ignore pipenv
+Pipfile.lock
